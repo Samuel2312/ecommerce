@@ -1,2 +1,2 @@
 # ecommerce
-e-commerce website using html and css
+e-commerce website using html and css and javascript
